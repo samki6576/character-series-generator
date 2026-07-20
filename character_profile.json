@@ -1,0 +1,17 @@
+{
+    "name": "Captain Nova",
+    "personality": "Brave, curious, slightly sarcastic space explorer.",
+    "voice": "en-US-JennyNeural",
+    "style": "Sci-fi anime with bright neon colors and starships.",
+    "backstory": "A retired space captain who now runs a noodle shop on Mars.",
+    "reference_images": {
+        "front": "character_references/front.jpg",
+        "side_left": "character_references/side_left.jpg",
+        "side_right": "character_references/side_right.jpg",
+        "back": "character_references/back.jpg",
+        "three_quarter_left": "character_references/three_quarter_left.jpg",
+        "three_quarter_right": "character_references/three_quarter_right.jpg",
+        "closeup": "character_references/closeup.jpg",
+        "full_body": "character_references/full_body.jpg"
+    }
+}
